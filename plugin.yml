@@ -1,0 +1,15 @@
+name: WarReport
+author: Celeo
+version: 0.3.0.0a
+description: Keeps track of kills
+website: http://darktidegames.com
+main: com.darktidegames.celeo.warreport.WarReportPlugin
+commands:
+  report:
+    usage: /<command> [view|top]
+    description: Fetches battle reports from past fights
+  reports:
+    usage: /<command> [view|top]
+    description: Fetches battle reports from past fights
+  customkill:
+    usage: /<command> [set|remove] (message)

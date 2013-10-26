@@ -1,0 +1,61 @@
+fightCounter: 1
+timeout: 10000
+noDeathMessages: []
+customMessages: []
+invalidWords:
+- fuck
+- bitch
+- cunt
+- dick
+- cock
+- vagina
+- nigger
+- nigga
+- niggah
+- cracker
+maxCustomLength: 40
+ignore:
+  worlds: []
+deathMessages:
+  contact:
+  - '&c%s &fthought that block was wise'
+  entity_attack:
+  - '&c%s &fgot killed by a mob'
+  projectile:
+  - '&c%s &ftook an arrow to the ... face'
+  suffocation:
+  - '&c%s &fforgot that being human entails breathing'
+  fall:
+  - '&c%s &fthought that they could fly'
+  fire:
+  - '&c%s &fis a pyromaniac that went a little too crazy'
+  fire_tick:
+  - '&c%s &fforgot to stop, drop, and roll'
+  melting:
+  - '&c%s &fgot an arm stuck in the oven'
+  lava:
+  - '&c%s &ftried to swim in thick, orange water'
+  drowning:
+  - '&c%s &ffound out that lungs are not gills'
+  block_explosion:
+  - '&c%s &flikes to blow stuff up, but got caught in the blast'
+  entity_explosion:
+  - '&c%s &ffound a creeper'
+  void:
+  - '&c%s &ftunneled righto ut of this plane of existence'
+  lightning:
+  - '&c%s &ftried to bend lightning'
+  suicide:
+  - '&c%s &fdecided that life was not worth living'
+  starvation:
+  - '&c%s &fwas not hungry, or so they thought'
+  poison:
+  - '&c%s &fdrank the wrong potion'
+  magic:
+  - '&c%s &fbrought a sword to a wizards duel'
+  wither:
+  - '&c%s &fwithered right away'
+  falling_block:
+  - '&c%s &fshould really look into buying a hard hat'
+  custom:
+  - '&c%s &fdied and we do not know how'
